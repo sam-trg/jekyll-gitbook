@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            Sam's Notebook
+longtitle:        Sam's Notebook
+author:           Sam Asija
+email:            samarthasija7@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  Sam's personal space on the Web.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://sam-trg.github.io'
+baseurl:          '/'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
